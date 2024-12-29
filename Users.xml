@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Users>
+    <User>
+        <ID>1</ID>
+        <Name>Santosh</Name>
+        <Age>30</Age>
+    </User>
+    <User>
+        <ID>2</ID>
+        <Name>Lalit</Name>
+        <Age>35</Age>
+    </User>
+    <User>
+        <ID>3</ID>
+        <Name>Santosh</Name>
+        <Age>30</Age>
+    </User>
+    <User>
+        <ID>4</ID>
+        <Name>Lalit</Name>
+        <Age>35</Age>
+    </User>
+    <User>
+        <ID>5</ID>
+        <Name>Dhiraj</Name>
+        <Age>50</Age>
+    </User>
+    <User>
+        <ID>6</ID>
+        <Name>Nagma</Name>
+        <Age>25</Age>
+    </User>
+    <User>
+        <ID>7</ID>
+        <Name>Digvijay</Name>
+        <Age>40</Age>
+    </User>
+</Users>
